@@ -1,0 +1,3 @@
+# Max-And-SingleOrDefault
+
+Crazy
